@@ -1,21 +1,13 @@
-# README #
+自述文件
+欢迎来到 rt-n56u 项目
 
-Welcome to the rt-n56u project
+该项目旨在在软件部分改进 rt-n56u 和其他支持的设备，让高级用户能够完全控制他们的硬件。这个项目是为了有用而创建的，但没有保修或支持。安装它可能会使您的保修失效。该项目的贡献者不对接下来发生的事情负责。
 
-This project aims to improve the rt-n56u and other supported devices on the software part, allowing power user to take full control over their hardware.
-This project was created in hope to be useful, but comes without warranty or support. Installing it will probably void your warranty. 
-Contributors of this project are not responsible for what happens next.
-
-### How do I get set up? ###
-
-* [Get the tools to build the system](https://bitbucket.org/padavan/rt-n56u/wiki/EN/HowToMakeFirmware) or [Download pre-built system image](https://bitbucket.org/padavan/rt-n56u/downloads)
-* Feed the device with the system image file (Follow instructions of updating your current system)
-* Perform factory reset
-* Open web browser on http://my.router to configure the services
-
-### Contribution guidelines ###
-
-* To be completed
-
-P.S.
-Original project author is Padavan. Old repository here: [rt-n56u project](https://bitbucket.org/padavan/rt-n56u)
+我该如何设置？
+获取构建系统的工具或下载预构建的系统映像
+向设备输入系统映像文件（按照更新当前系统的说明进行操作）
+执行恢复出厂设置
+在http://my.router上打开 Web 浏览器以配置服务
+贡献指南
+要完成的
+PS 原始项目作者是 Padavan。旧存储库：rt-n56u 项目
